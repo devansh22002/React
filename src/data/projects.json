@@ -1,26 +1,23 @@
 [
   {
-    "title": "Project A",
+    "title": "Expense Tracker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "This is a project made to track the expenses",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/devansh22002/expense/"
   },
   {
-    "title": "Project B",
+    "title": "Encryptor",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to encrypt and decrypt the messages",
+    "skills": ["HTML", "CSS", "Javascript", "Mysql", "Php"],
+    "source": "https://github.com/devansh22002/Pass-Gen"
   },
   {
-    "title": "Project C",
+    "title": "Currency Converter",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to check the currency conversion in real time by using Api",
+    "skills": ["Java"],
+    "source": "https://github.com/devansh22002/project1"
   }
 ]

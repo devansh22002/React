@@ -1,29 +1,17 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Cyber Security Analyst",
+    "organisation": "Hacktify",
+    "startDate": "March, 2024",
+    "endDate": "May, 2024",
+    "experiences": ["Gained hands on experience in conducting vulnerability assessment and penetration testing", "Used Industry grade tools like: Nmap, Metasploit, Burp Suite, Wireshark"]
+
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
-  },
-  {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
-    "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
-    ],
-    "imageSrc": "history/netflix.png"
+    "role": "Cyber Security Intern",
+    "organisation": "Cisco Network Academy",
+    "startDate": "March, 2022",
+    "endDate": "May, 2022",
+    "experiences": ["Learn about Networking, OSI Model, how network work", "Design a secure network using Cisco Packet tracer for university as a project"]
   }
 ]
